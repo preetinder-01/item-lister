@@ -3,6 +3,7 @@
     font-size: 25px;
     text-align: center;
     background-color: cornflowerblue;
+    margin: -35px -12px 0px -10px;
 }
 
 
@@ -23,7 +24,11 @@ margin-block-end: 50%;
 }
 
 .submit-btn{
-background-color: ;
+background-color: grey;
+border-radius: 2px;
+font-weight: 200;
+
+border: honeydew;
 }
 .list-item{
     list-style-type: none;
