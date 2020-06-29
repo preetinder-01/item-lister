@@ -1,0 +1,38 @@
+.header{
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+
+.body{
+border: 1px solid black;
+margin-block-end: 50%;
+
+}
+
+.title{
+    /* font-size: 20px; */
+    margin-left: 20px;
+}
+
+.input{
+    box-sizing: border-box;
+    margin-left: 15px;
+}
+
+.submit-btn{
+background-color: cornflowerblue;
+}
+.list-item{
+    list-style-type: none;
+    border: .5px solid black;
+    margin: 2px 0px;
+    padding: 10px;
+}
+
+.items{
+    margin 0px 5px;
+    padding-right: 35px;
+}
