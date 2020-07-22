@@ -1,12 +1,25 @@
 .header{
     color: black;
     font-size: 25px;
-    text-align: center;
-    background-color: #71879a;
+    text-align: left;
+    background-color: green;
     margin: -35px -12px 0px -10px;
+    padding-inline-start: 10px;
 }
 
+#search{
+float: right;
+margin-right: 50px;
+margin-top: -75px;
+width: 200px;
+height: 30px;
+}
 
+.delete{
+    float: right;
+    color: white;
+    background-color: red;
+}
 .body{
 border: 1px solid black;
 margin-block-end: 50%;
@@ -16,6 +29,7 @@ margin-block-end: 50%;
 .title{
     /* font-size: 20px; */
     margin-left: 20px;
+    text-align: left;
 }
 
 .input{
@@ -35,6 +49,9 @@ border: honeydew;
     border: .5px solid black;
     margin: 2px 0px;
     padding: 10px;
+    font-size: medium;
+    font-stretch: expanded;
+    text-align: left;
 }
 
 .items{
